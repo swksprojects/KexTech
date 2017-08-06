@@ -1,2 +1,0 @@
-# KexTech
-KexTech Website
